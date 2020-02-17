@@ -65,25 +65,25 @@
 	}
 
 	.container.\31 25\25 {
-		width: 100%;
+		width: 50%;
 		max-width: 100rem;
 		min-width: 80rem;
 	}
 
 	.container.\37 5\25 {
-		width: 60rem;
+		width: 30rem;
 	}
 
 	.container.\35 0\25 {
-		width: 40rem;
-	}
-
-	.container.\32 5\25 {
 		width: 20rem;
 	}
 
+	.container.\32 5\25 {
+		width: 10rem;
+	}
+
 	.container {
-		width: 80rem;
+		width: 40rem;
 	}
 
 	@media screen and (max-width: 1680px) {
@@ -1802,7 +1802,7 @@
 	}
 
 		.box .content {
-			padding: 3rem;
+			padding: 1rem;
 		}
 
 		.box > :last-child,
