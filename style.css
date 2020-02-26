@@ -1,0 +1,23 @@
+body {
+    color: black;               
+    background-color: mintcream;
+    font-size: 18px;
+    font-weight: normal;  
+
+  }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+h1, p {
+    font-size: 2em;
+    background-color: #DDE0E3;
+}
+  
+h2 {
+    font-size: 1.6em;
+}
+
+ul {
+    list-style-type: circle;
+}
