@@ -1,10 +1,29 @@
 body {
     color: black;               
-    background-color:midnightblue;
+    background-color:mintcream;
     font-size: 18px;
     font-weight: normal;  
 
-  }
+}
+
+header {
+    
+}
+nav {
+    text-align: center;
+}
+nav ul {
+    margin:0;
+}
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 10px
+}
+nav ul li a {
+    color: white;
+
+}
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Helvetica", "Arial", sans-serif;
@@ -17,7 +36,7 @@ h2 {
     font-size: 1.6em;
 }
 p {
-    background-color: mintcream;
+    background-color: white;
 }
 ul {
     list-style-type: circle;
