@@ -6,6 +6,7 @@ body {
 
 }
 
+
 nav{
     text-align: center;
 }
@@ -22,6 +23,10 @@ nav li a {
     text-align: center;
     color: black;
     text-decoration: none;
+}
+
+ul li {
+    list-style-type: disc;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -44,4 +49,16 @@ ul {
 img.resume {
     width:540px;
     height:auto;
+}
+
+.row{
+
+}
+
+.col {
+    margin: 5%;
+    width: 39%;
+    background-color: slategray;
+    float: left;
+    padding: 3px;
 }
