@@ -32,6 +32,10 @@ h5 {
   color: whitesmoke;
 }
 
+h6 {
+  color: rgb(24, 24, 24);
+}
+
 .script-font {
   font-family: 'Shadows Into Light', cursive;
 }
